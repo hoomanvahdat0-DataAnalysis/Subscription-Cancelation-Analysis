@@ -9,6 +9,6 @@ Company leadership has identified a significant churn issue this year that has m
 ![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancelation-Analysis/blob/main/Subscription%20Cancelation%20Analysis.png)
 
 ## Methodology:
-1-EDA  Exploratory Data Analysis
-2-Product Funnel Analysis
-3-Data Visualization
+1. EDA  Exploratory Data Analysis
+2. Product Funnel Analysis
+3. Data Visualization
