@@ -1,4 +1,4 @@
-# Subscription Cancelation Analysis
+# Subscription Cancellation Analysis
 
 ## Executive Summary:
 The company is experiencing high churn and substantial revenue loss, prompting leadership to seek deeper insights into why customers are canceling subscriptions. This analysis examines user-reported cancellation reasons to uncover patterns and generate recommendations aimed at improving retention moving forward.
@@ -20,3 +20,10 @@ Company leadership has identified a significant churn issue this year that has m
 4. Data Cleaning
 5. Data Science Notebook
 6. Snowflake Data warehouse
+
+##    Business Recommendations:
+1. Since most users have selected Expensive and Not Useful as the reasons to cancel, we should roll out better onboarding and provide more help early on in their subscription to ensure users understand the product and find it useful. If they find the product more useful and valuable, they may also become less cost-sensitive to its value.
+   
+2. For cost-conscious users, we could also launch a rescue tactic at the beginning of the cancellation workflow that offers them a large discount to stay and not cancel their subscription.
+   
+3. Since the most common cancellation reason for the secondary reason is Went to Competitor, we should research the market and ensure we're keeping up to date with industry trends.
