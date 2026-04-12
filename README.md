@@ -14,7 +14,7 @@ Company leadership has identified a significant churn issue this year that has m
 3. Data Visualization
 
 ## Skills:
-1. SQL: CTEs, CASE, Union, View creation
+1. SQL: CTEs, CASE, Union, View creation
 2. Data Visualization
 3. Data Wrangling
 4. Data Cleaning
