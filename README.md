@@ -21,11 +21,6 @@ Company leadership has identified a significant churn issue this year that has m
 5. Data Science Notebook
 6. Snowflake Data warehouse
 
-## Results:
-1. X% of users are selecting at least 1 additional cancelation reason (beyond the first required one), but most users are not selecting all 3 which suggests lack of interest and frustration for the user.
-2. X% of users reported Y as the primary (first) cancelation reason. The top choices for the primary reason were _______.
-Over time, here's how the cancelation reasons have changed: _____.
-
 ##    Business Recommendations:
 1. Since most users have selected Expensive and Not Useful as the reasons to cancel, we should roll out better onboarding and provide more help early on in their subscription to ensure users understand the product and find it useful. If they find the product more useful and valuable, they may also become less cost-sensitive to its value.
    
