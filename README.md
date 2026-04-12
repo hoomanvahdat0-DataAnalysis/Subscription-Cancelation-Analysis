@@ -12,3 +12,12 @@ Company leadership has identified a significant churn issue this year that has m
 1. EDA  Exploratory Data Analysis
 2. Product Funnel Analysis
 3. Data Visualization
+
+## Skills:
+1. SQL
+2. CTEs, CASE, Union, View creation
+3. Data visualization
+4. Data Wrangling
+5. Data Cleaning
+6. Data Science Notebook
+7. Snowflake Data warehouse
