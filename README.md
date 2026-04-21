@@ -26,8 +26,6 @@ EDA shows that the most commonly selected primary reason for cancellation is “
 6. Snowflake Data warehouse
 
 ##    Business Recommendations:
-1. Since most users have selected Expensive and Not Useful as the reasons to cancel, we should roll out better onboarding and provide more help early on in their subscription to ensure users understand the product and find it useful. If they find the product more useful and valuable, they may also become less cost-sensitive to its value.
-   
-2. For cost-conscious users, we could also launch a rescue tactic at the beginning of the cancellation workflow that offers them a large discount to stay and not cancel their subscription.
-   
-3. Since the most common cancellation reason for the secondary reason is Went to Competitor, we should research the market and ensure we're keeping up to date with industry trends.
+1. Because many users cite “Expensive” and “Not Useful” when canceling, we should improve onboarding and offer more guidance early in the subscription. Helping users better understand and experience the product’s value may also reduce their sensitivity to price.
+2. For users who are more price-conscious, we could introduce a retention tactic at the start of the cancellation flow—such as offering a meaningful discount to encourage them to stay.
+3. Since “Went to Competitor” is the most common secondary reason for cancellation, we should conduct ongoing market research to stay aligned with industry trends and remain competitive.
