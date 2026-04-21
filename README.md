@@ -1,10 +1,11 @@
 # Subscription Cancellation Analysis
 
 ## Executive Summary:
-The company is experiencing high churn and substantial revenue loss, prompting leadership to seek deeper insights into why customers are canceling subscriptions. This analysis examines user-reported cancellation reasons to uncover patterns and generate recommendations aimed at improving retention moving forward.
+The dataset under analysis comes from a software-as-a-service (SaaS) company that offers subscription-based products with recurring renewals. When customers cancel their subscriptions, they are required to select at least one reason, with the option to choose up to three. However, it is reasonable to assume that many dissatisfied users prefer to complete the cancellation process quickly and may not take the time to select multiple reasons.
 
 ## Business Problem:
-Company leadership has identified a significant churn issue this year that has materially impacted revenue, prompting plans for a company-wide retention initiative. However, there is currently limited visibility into the underlying reasons behind customer cancellations. To address this gap, the analytics team is analyzing user-reported feedback collected during the in-product cancellation workflow to uncover trends and better understand why users are choosing to leave.
+The company is facing a customer retention problem, as a significant number of users choose not to renew their subscriptions.
+The goal of the analysis is to identify the factors contributing to this higher-than-expected churn rate. To address this, data analysis tools—such as SQL—are used to examine cancellation patterns, including the most frequently cited reasons and any emerging trends.
 
 ![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancelation-Analysis/blob/main/Subscription%20Cancelation%20Analysis.png)
 
@@ -12,6 +13,8 @@ Company leadership has identified a significant churn issue this year that has m
 1. EDA  Exploratory Data Analysis
 2. Product Funnel Analysis
 3. Data Visualization
+EDA shows that the most commonly selected primary reason for cancellation is “not useful,” followed by “expensive.” For the second reason, “went to competitor” appears most frequently, again followed by “expensive.” The third reason is most often listed as “none,” suggesting that few users go beyond the minimum requirement.
+  
 
 ## Skills:
 1. SQL: CTEs, CASE, Union, View creation
