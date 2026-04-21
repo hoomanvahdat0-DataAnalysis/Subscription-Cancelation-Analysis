@@ -29,3 +29,7 @@ EDA shows that the most commonly selected primary reason for cancellation is “
 1. Because many users cite “Expensive” and “Not Useful” when canceling, we should improve onboarding and offer more guidance early in the subscription. Helping users better understand and experience the product’s value may also reduce their sensitivity to price.
 2. For users who are more price-conscious, we could introduce a retention tactic at the start of the cancellation flow—such as offering a meaningful discount to encourage them to stay.
 3. Since “Went to Competitor” is the most common secondary reason for cancellation, we should conduct ongoing market research to stay aligned with industry trends and remain competitive.
+
+![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancelation-Analysis/blob/main/graph1.png)
+![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancelation-Analysis/blob/main/graph2.png)
+  
