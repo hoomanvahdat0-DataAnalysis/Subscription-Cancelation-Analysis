@@ -13,6 +13,7 @@ The goal of the analysis is to identify the factors contributing to this higher-
 1. EDA  Exploratory Data Analysis
 2. Product Funnel Analysis
 3. Data Visualization
+   
 EDA shows that the most commonly selected primary reason for cancellation is “not useful,” followed by “expensive.” For the second reason, “went to competitor” appears most frequently, again followed by “expensive.” The third reason is most often listed as “none,” suggesting that few users go beyond the minimum requirement.
   
 
