@@ -7,7 +7,7 @@ The dataset under analysis comes from a software-as-a-service (SaaS) company tha
 The company is facing a customer retention problem, as a significant number of users choose not to renew their subscriptions.
 The goal of the analysis is to identify the factors contributing to this higher-than-expected churn rate. To address this, data analysis tools—such as SQL—are used to examine cancellation patterns, including the most frequently cited reasons and any emerging trends.
 
-![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancelation-Analysis/blob/main/Subscription%20Cancelation%20Analysis.png)
+![Data Model](https://github.com/hoomanvahdat0-DataAnalysis/Subscription-Cancellation-Analysis/blob/main/Subscription%20Cancellation%20Analysis.png)
 
 ## Methodology:
 1. EDA  Exploratory Data Analysis
