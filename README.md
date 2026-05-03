@@ -1,7 +1,7 @@
-# Subscription Cancellation Analysis
+# Subscription Cancellation Analysis for Saas FinTech
 
 ## Executive Summary:
-The dataset under analysis comes from a software-as-a-service (SaaS) company that offers subscription-based products with recurring renewals. When customers cancel their subscriptions, they are required to select at least one reason, with the option to choose up to three. However, it is reasonable to assume that many dissatisfied users prefer to complete the cancellation process quickly and may not take the time to select multiple reasons.
+The dataset under analysis comes from a company that offers subscription-based products with recurring renewals. When customers cancel their subscriptions, they are required to select at least one reason, with the option to choose up to three. However, it is reasonable to assume that many dissatisfied users prefer to complete the cancellation process quickly and may not take the time to select multiple reasons.
 
 ## Business Problem:
 The company is facing a customer retention problem, as a significant number of users choose not to renew their subscriptions.
