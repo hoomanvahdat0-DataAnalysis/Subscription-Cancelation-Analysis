@@ -24,6 +24,7 @@ EDA shows that the most commonly selected primary reason for cancellation is “
 4. Data Cleaning
 5. Data Science Notebook
 6. Snowflake Data warehouse
+7. Python
 
 ##    Business Recommendations:
 1. Because many users cite “Expensive” and “Not Useful” when canceling, we should improve onboarding and offer more guidance early in the subscription. Helping users better understand and experience the product’s value may also reduce their sensitivity to price.
